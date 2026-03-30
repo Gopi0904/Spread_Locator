@@ -13,10 +13,10 @@
 
 🛠️ Tools & Technologies Used :-
 
-  Python 
-  NumPy & Pandas
-  Matplotlib & Seaborn
-  SciPy & Statsmodels
+  Python, 
+  NumPy & Pandas,
+  Matplotlib & Seaborn,
+  SciPy & Statsmodels,
   Jupyter Notebook
 
 📈 Key Insights :-
